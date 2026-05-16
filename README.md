@@ -1,0 +1,1 @@
+This is Color Journey, an interactive adventure where you have five tries to add colors to your background. Make sure to enable audio autoplay for the site, as each page has a sound that plays when they load.
